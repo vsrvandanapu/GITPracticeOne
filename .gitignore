@@ -1,0 +1,10 @@
+# Playwright
+node_modules/
+/allure-report/
+/allure-results/
+/e2e/
+/screenshots/
+/filesToUpload/
+/test-results/
+/playwright-report/
+/tests-examples/
